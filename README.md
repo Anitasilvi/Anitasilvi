@@ -2,32 +2,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-<h2><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> Hi, I'm Anita Silvi Ferdina! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Anita Silvi Ferdina! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <p><em>D3 Student <a href="http://www.unb.br">at State Polytechnic of Electronic Engineering Surabaya</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </br>
   Web Development Enthusiast<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-
-<h1 align="center">
-  Let's Connect and have a Chat!
-</h1>
-
 <p align="center">
-<a href="https://anitasilvi.github.io/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a>
-<a href="https://www.linkedin.com/in/anitasilviferdina/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-<a href="https://twitter.com/aniitasilvi/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
-<a href="https://www.instagram.com/aniitasilvi/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+  <a href="https://github.com/Anitasilvi">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anitasilvi&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
 </p>
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+
 <h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Little Bit About Me and My Interests</h2>
 
 ```yaml
@@ -53,19 +40,9 @@ hobbies: ["Gaming", "Cinema", "Reading"]
   
 ---  
 
-## Listen With Me On Spotify 🎧
-
-[![My Rock Playlist](https://img.shields.io/badge/My%20Rock%20Music%20Playlist-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/3w9KxGaNLAzUCmBWylXRKJ)
-[![Youtube Playlist](https://img.shields.io/badge/Youtube%20Songs%20Playlist-%231DB954.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6WWwkb3SOn7umVjuBaqBnn)
-
-[![Spotify](https://novatorem-weld-ten.vercel.app/api/spotify)](https://open.spotify.com/user/3rpxiap4czveo8clwzcqaf68e) [<img alt="GIF" height="130px" src="https://media.giphy.com/media/6iG7AvqmLXgTvay1dq/giphy.gif">](https://open.spotify.com/user/3rpxiap4czveo8clwzcqaf68e)
-
-[![Recently Played in Spotify](https://spotify-recently-played-readme.vercel.app/api?user=3rpxiap4czveo8clwzcqaf68e)](https://github.com/Anita%20Silvi%20Ferdina)
-
----
-  
 <h2>Languages and Tools:<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2></h2>
 <p align="left">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="cLang" width="45" height="45"/>
@@ -106,6 +83,25 @@ hobbies: ["Gaming", "Cinema", "Reading"]
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="45" height="45"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="45" height="45"/> 
+</p>
+
+<h1>
+  Let's Connect and have a Chat!
+</h1>
+
+<p align="center">
+<a href="https://anitasilvi.github.io/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+</a>
+<a href="https://www.linkedin.com/in/anitasilviferdina/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+</a>
+<a href="https://twitter.com/aniitasilvi/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
+</a>
+<a href="https://www.instagram.com/aniitasilvi/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
 </p>
 <em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 <p align="center">
