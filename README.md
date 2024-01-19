@@ -33,8 +33,8 @@
 located_in: Surabaya, Jawa Timur
 education:
   [
-    "D3 Teknik Informatika",
-    "SMK Negeri 1 Surabaya",
+    "D3 Politeknik Elektronika Negeri Surabaya - Teknik Informatika",
+    "SMK Negeri 1 Surabaya - Rekayasa Perangkat Lunak",
   ]
 fields_of_interests:
   [
