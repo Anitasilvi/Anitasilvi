@@ -27,7 +27,7 @@
 ### <h1> A Little Bit About Me and My Interests <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h1>
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Anitasilvi?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Anitasilvi?style=social">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="255px" height="180px">
+<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="250px" height="180px">
 
 ```yaml
 located_in: Surabaya, Jawa Timur
