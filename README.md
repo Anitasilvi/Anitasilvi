@@ -23,17 +23,14 @@
 
 <div align="center">
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
-  <a href="https://github.com/victorabarros?tab=repositories">
-  <img width="500px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Anitasilvi&count_private=true&layout=compact&hide=makefile,shell&hide_title=true&hide_border=true" />
-</a>
-    <a href="https://github.com/Anitasilvi">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anitasilvi&theme=dracula" alt="Al Siam's GitHub Contribution"/>
-    </a>
+	 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anitasilvi&theme=algolia" alt="Anitasilvi GitHub Contribution"/>
+ 
 </div>
 <br>
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/Anitasilvi?style=social"> &nbsp;&nbsp; <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Anitasilvi?style=social">
+
+<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="275px" height="220px">
 
 <h2> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Little Bit About Me and My Interests</h2>
 
@@ -52,15 +49,15 @@ fields_of_interests:
     "UI/UX",
     "DevOps",
   ]
+my_quote: It's never too late - never too late to start over, never too late to be happy
 challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-  
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Reading"]
+hobbies: ["Gaming", "Coding", "Sleeping", "Watching film", "Reading"]
 ```
   
 ---  
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
 
-<h2>Languages and Tools:<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2></h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
